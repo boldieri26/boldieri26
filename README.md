@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk5ZTRkamp0dG5vcHc5czRzejViM2ZjcjVlOHVodWJ4MzhiNXViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.gif" width="300"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF7F&width=600&lines=Welcome+to+my+profile!;Hello%2C+I%27m+Leonardo+Boldieri.;IT+Technical+Support+Analyst.;DevOps+Student.)
